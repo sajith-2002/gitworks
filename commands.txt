@@ -12,4 +12,6 @@
 
 >git push [to sent chnges from local repo to remote repo]
 
+>git config --list [config list]
+
 
