@@ -14,4 +14,9 @@
 
 >git config --list [config list]
 
+>git config --global user.name "username" [to add username]
+
+>git config --global user.email "email" [to add email]
+
+
 
